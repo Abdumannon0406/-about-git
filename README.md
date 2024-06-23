@@ -1,0 +1,2 @@
+# -about-git
+entering lesson
